@@ -1,5 +1,5 @@
 # Olá! Eu sou Érick Aires </> 👋
-## Estudante de Sistemas de Informação | Web Dev.
+## Estudante de Sistemas de Informação | Sales Ops | Web Dev. 
 
 ### Contact:
 
