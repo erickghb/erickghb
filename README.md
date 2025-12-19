@@ -9,6 +9,6 @@
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,github)](https://skillicons.dev)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickghb&layout=compact&langs_count=6&theme=react"/>
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickghb&layout=compact&langs_count=6&theme=react"/>
 
 
