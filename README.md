@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Érick Aires 👋
+# Olá, eu sou Érick Aires 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E86C1&center=true&vCenter=true&width=600&lines=Business+Intelligence+Intern+%40+EBM;Power+BI+%7C+DAX+%7C+Python+%7C+SQL;Construindo+o+ebm-insight-hub+(React+%2B+TS);Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o" alt="Typing SVG" />
 
