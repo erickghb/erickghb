@@ -8,16 +8,16 @@
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
-- 🔍 Business Intelligence Intern na **EBM**, atuando com dashboards em Power BI, modelagem DAX, Power Query e automações em Python
-- 🛠️ Liderando o desenvolvimento do **ebm-insight-hub**, uma web app para substituir relatórios de BI (React, TypeScript, Node.js, PostgreSQL)
-- 🎓 Cursando Sistemas de Informação (4º semestre) na ESUP
-- 📊 Apaixonado por transformar dados em decisões
+-  Business Intelligence Intern na **EBM**, atuando com dashboards em Power BI, modelagem DAX, Power Query e automações em Python
+-  Liderando o desenvolvimento do **ebm-insight-hub**, uma web app para substituir relatórios de BI (React, TypeScript, Node.js, PostgreSQL)
+-  Cursando Sistemas de Informação (4º semestre) na ESUP
+-  Apaixonado por transformar dados em decisões
 
 ---
 
-### 🧰 Tecnologias
+###  Tecnologias
 
 <div align="center">
 
