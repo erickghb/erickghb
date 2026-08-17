@@ -1,5 +1,10 @@
 # Olá! Eu sou Érick Aires </> =)
-## Estudante de Sistemas de Informação | Sales Ops | Web Dev
+## Estudante de Sistemas de Informação | Business Intelligence | Web Dev
+
+### Sobre mim:
+🔍 Business Intelligence Intern na EBM, trabalhando com dashboards em Power BI, DAX e automações em Python  
+🎓 Cursando Sistemas de Informação (4º semestre)  
+🚀 Construindo uma web app própria (React + TypeScript + Node.js) pra substituir relatórios de BI  
 
 ### Contato:
 
@@ -7,8 +12,6 @@
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=silva.erick805@gmail.com)
 
 ### Skills:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,python,html,css,postgres,git,github)](https://skillicons.dev)
 
 <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erickghb&layout=compact&langs_count=6&theme=react"/>
-
-
